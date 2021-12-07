@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Nacho-Lopez-Guerrero/Spiders-in-my-Office--VR/main/Screenshots/SpidersVR_Title.png?raw=true"/>
 </p>
 
-![Alt text](/Screenshots/SpidersVR_1.png?raw=true )
+![Alt text](/Screenshots/SpidersVR_2.png?raw=true )
 
  ###### External links and reviews:
 
@@ -157,7 +157,7 @@ Teclado:
 [E] --> Abrir/Cerrar puertas
 
 
-![Alt text](/Screenshots/SpidersVR_2.png?raw=true )
+![Alt text](/Screenshots/SpidersVR_1.png?raw=true )
 
 ![Alt text](/Screenshots/SpidersVR_3.png?raw=true )
 
