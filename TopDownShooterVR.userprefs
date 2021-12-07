@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameGUI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Entity.cs" Line="89" Column="1" />
+      <File FileName="Assets\OVR\Scripts\Util\OVRPlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy AI\MobGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Day Night Cycle\Scripts\Day Night Cycle\GameTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="91" Column="1" />
+      <File FileName="Assets\Scripts\GameGUI.cs" Line="19" Column="32" />
+      <File FileName="Assets\Scripts\Player.cs" Line="85" Column="26" />
+      <File FileName="Assets\Scripts\Gun.cs" Line="1" Column="1" />
+      <File FileName="Assets\TruckExplode.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyWeapon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy AI\AI1.cs" Line="208" Column="20" />
+      <File FileName="Assets\OVR\Scripts\OVRManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\OVR\Scripts\OVRCameraRig.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DoorScript.js" Line="42" Column="20" />
+      <File FileName="Assets\Scripts\Enemy AI\AdvancedMovement.cs" Line="217" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

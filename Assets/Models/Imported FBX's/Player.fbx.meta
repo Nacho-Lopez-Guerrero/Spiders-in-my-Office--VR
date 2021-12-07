@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 27d2d86419179354ea6856622fed0912
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature|Arms
+    100004: Armature|Chest
+    100006: Armature|Foot.L
+    100008: Armature|Foot.R
+    100010: Armature|Hand.L
+    100012: Armature|Hand.R
+    100014: Armature|Head
+    100016: Armature|Hold
+    100018: Armature|Leg IK.L
+    100020: Armature|Leg IK.R
+    100022: Armature|Leg Target.L
+    100024: Armature|Leg Target.R
+    100026: Armature|Lower Arm.L
+    100028: Armature|Lower Arm.R
+    100030: Armature|Lower Leg.L
+    100032: Armature|Lower Leg.R
+    100034: Armature|Torso
+    100036: Armature|Upepr Leg.R
+    100038: Armature|Upper Arm.L
+    100040: Armature|Upper Arm.R
+    100042: Armature|Upper Leg.L
+    100044: Camera
+    100046: Character Mesh
+    100048: Hemi
+    100050: //RootNode
+    400000: Armature
+    400002: Armature|Arms
+    400004: Armature|Chest
+    400006: Armature|Foot.L
+    400008: Armature|Foot.R
+    400010: Armature|Hand.L
+    400012: Armature|Hand.R
+    400014: Armature|Head
+    400016: Armature|Hold
+    400018: Armature|Leg IK.L
+    400020: Armature|Leg IK.R
+    400022: Armature|Leg Target.L
+    400024: Armature|Leg Target.R
+    400026: Armature|Lower Arm.L
+    400028: Armature|Lower Arm.R
+    400030: Armature|Lower Leg.L
+    400032: Armature|Lower Leg.R
+    400034: Armature|Torso
+    400036: Armature|Upepr Leg.R
+    400038: Armature|Upper Arm.L
+    400040: Armature|Upper Arm.R
+    400042: Armature|Upper Leg.L
+    400044: Camera
+    400046: Character Mesh
+    400048: Hemi
+    400050: //RootNode
+    4300000: Character Mesh
+    7400000: Armature|Idle
+    7400002: Armature|Run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Character Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Leg IK.L
+        weight: 1
+      - path: Armature/Armature|Leg IK.R
+        weight: 1
+      - path: Armature/Armature|Leg Target.L
+        weight: 1
+      - path: Armature/Armature|Leg Target.R
+        weight: 1
+      - path: Armature/Armature|Torso
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.L
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.L/Armature|Lower Arm.L
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.L/Armature|Lower Arm.L/Armature|Hand.L
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.R
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.R/Armature|Lower Arm.R
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.R/Armature|Lower Arm.R/Armature|Hand.R
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.R/Armature|Lower Arm.R/Armature|Hand.R/Armature|Hold
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Head
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Upepr Leg.R
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Upepr Leg.R/Armature|Lower Leg.R
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Upepr Leg.R/Armature|Lower Leg.R/Armature|Foot.R
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Upper Leg.L
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Upper Leg.L/Armature|Lower Leg.L
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Upper Leg.L/Armature|Lower Leg.L/Armature|Foot.L
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Character Mesh
+        weight: 1
+      - path: Hemi
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|Run
+      takeName: Armature|Run
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Leg IK.L
+        weight: 1
+      - path: Armature/Armature|Leg IK.R
+        weight: 1
+      - path: Armature/Armature|Leg Target.L
+        weight: 1
+      - path: Armature/Armature|Leg Target.R
+        weight: 1
+      - path: Armature/Armature|Torso
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.L
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.L/Armature|Lower Arm.L
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.L/Armature|Lower Arm.L/Armature|Hand.L
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.R
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.R/Armature|Lower Arm.R
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.R/Armature|Lower Arm.R/Armature|Hand.R
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Arms/Armature|Upper
+          Arm.R/Armature|Lower Arm.R/Armature|Hand.R/Armature|Hold
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Chest/Armature|Head
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Upepr Leg.R
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Upepr Leg.R/Armature|Lower Leg.R
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Upepr Leg.R/Armature|Lower Leg.R/Armature|Foot.R
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Upper Leg.L
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Upper Leg.L/Armature|Lower Leg.L
+        weight: 1
+      - path: Armature/Armature|Torso/Armature|Upper Leg.L/Armature|Lower Leg.L/Armature|Foot.L
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Character Mesh
+        weight: 1
+      - path: Hemi
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

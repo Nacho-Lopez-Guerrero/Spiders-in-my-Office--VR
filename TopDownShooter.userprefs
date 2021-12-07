@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\FPSProject\Assets\Scripts\EnemyBodyScript.js">
+    <Files>
+      <File FileName="..\FPSProject\Assets\Scripts\EnemyMovementScript.js" Line="117" Column="18" />
+      <File FileName="..\FPSProject\Assets\Scripts\EnemyBodyScript.js" Line="37" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
