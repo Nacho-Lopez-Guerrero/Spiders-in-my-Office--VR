@@ -9,11 +9,11 @@
 
  ###### External links and reviews:
 
-· 'Spiders in my Office! VR' Gameplay Video at WearVR
-https://www.youtube.com/watch?v=jMB3OlIYdJE
-
 · 'Spiders in my Office! VR' Gameplay Video at OnlyVR
 https://www.youtube.com/watch?v=lH-aZncZXf4
+
+· 'Spiders in my Office! VR' Gameplay Video at WearVR
+https://www.youtube.com/watch?v=jMB3OlIYdJE
 
 · 'Spiders in my Office! VR' at Oculus Share
 https://share.oculus.com/app/spiders-in-my-office-vr
