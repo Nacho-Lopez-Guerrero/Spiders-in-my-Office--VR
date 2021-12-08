@@ -1,5 +1,5 @@
 # Spiders in my Office! VR
-## Unity C# - Virtual Reality Shooter
+## Unity C# - Virtual Reality FPS
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nacho-Lopez-Guerrero/Spiders-in-my-Office--VR/main/Screenshots/SpidersVR_Title.png?raw=true"/>
